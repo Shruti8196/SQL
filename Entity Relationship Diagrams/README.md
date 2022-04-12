@@ -68,6 +68,6 @@ diagram for the Snooty Fashions Operations Database:
 8. Each tailoring technician must work on at least one outfit, but can work on many. Each outfit has at least one tailoring technician working on it, but can have many tailoring technicians working on it.
 9. Snooty Fashions will keep track of the date when a tailoring technician started working on a particular outfit.
 10. Each designer can participate in a number of fashion shows, but does not have to participate in any. Each fashion show can feature one or two Snooty Fashions designers (Snooty Fashions will not keep track of fashion shows that do not feature Snooty Fashions
-designers).
+designers)
 
 ![](https://github.com/Shruti8196/SQL/blob/main/Entity%20Relationship%20Diagrams/ER5.png)
